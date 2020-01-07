@@ -11,6 +11,10 @@ Image size range: (46,000 ~ 80,000) x (57,000 ~ 65,000)
 Data type: .ndpi
 
 ## Digital Pathology Images
+	Mouse’s Kidney (Original 46,080 x 59,904)
+	Mouse’s Kidney (Original x 1.85)
+	Mouse’s Kidney (Original x 1.85)
+	Labeling
 
 ## How to access
 TBA
