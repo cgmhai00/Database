@@ -1,5 +1,5 @@
-# Database
-There are open datasets released by CGMH
+# CGMH Mouse Whole Slide Images
+Published: 07JAN2019 Version: 1.0.0
 
 Background
 In daily clinical practice, pathologists need to spend amount time manually searching each glomerulus on the pathology slide images for the further measurement of clinical index, description of tissues, and diagnosis. The project aims of this database was to development of an artificial intelligence algorithm to auto-segmentation of glomerulus base on the whole slide image (WSI). The algorithm will decrease the clinical burden for pathologists.
