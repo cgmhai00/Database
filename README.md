@@ -23,8 +23,11 @@ Data type: .ndpi
 	Labeling
 ![Image4](https://github.com/cgmhai00/Database/blob/master/original_labeling.jpg)
 
-## How to access
+## Download Sample data
 TBA
+
+## How to access the complete data
+Send research proposal to cgmhailab@gmail.com (free format)
 
 ## References
 None
