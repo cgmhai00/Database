@@ -15,8 +15,13 @@ Data type: .ndpi
 ![Image](https://github.com/cgmhai00/Database/blob/master/original.jpg)
 
 	Mouse’s Kidney (Original x 1.85)
+![Image2](https://github.com/cgmhai00/Database/blob/master/original_v2.jpg)
+
 	Mouse’s Kidney (Original x 1.85)
+![Image3](https://github.com/cgmhai00/Database/blob/master/original_v3.jpg)
+
 	Labeling
+![Image4](https://github.com/cgmhai00/Database/blob/master/original_labeling.jpg)
 
 ## How to access
 TBA
