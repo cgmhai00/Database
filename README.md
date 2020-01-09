@@ -12,6 +12,8 @@ Data type: .ndpi
 
 ## Digital Pathology Images
 	Mouse’s Kidney (Original 46,080 x 59,904)
+![Image](https://github.com/cgmhai00/Database/blob/master/original.jpg)
+
 	Mouse’s Kidney (Original x 1.85)
 	Mouse’s Kidney (Original x 1.85)
 	Labeling
